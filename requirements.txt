@@ -1,0 +1,8 @@
+# Requirements for AI Customer Churn Prediction System
+# Run: pip install -r requirements.txt
+
+streamlit>=1.28.0
+joblib>=1.3.0
+pandas>=2.0.0
+numpy>=1.24.0
+plotly>=5.15.0
